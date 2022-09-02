@@ -10,7 +10,7 @@ import SwiftUI
 struct CircleButtonAnimationView: View {
     var body: some View {
         Circle()
-            .stroke(lineWidth: 10)
+            .stroke(lineWidth: 5)
     }
 }
 
