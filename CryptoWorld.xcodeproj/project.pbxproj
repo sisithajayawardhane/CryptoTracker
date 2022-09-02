@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0496B87128C23A060082413E /* CircleButtonAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0496B87028C23A060082413E /* CircleButtonAnimationView.swift */; };
 		04AFFE4228BF92090075260E /* CryptoWorldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AFFE4128BF92090075260E /* CryptoWorldApp.swift */; };
 		04AFFE4428BF92090075260E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AFFE4328BF92090075260E /* ContentView.swift */; };
 		04AFFE4628BF920C0075260E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AFFE4528BF920C0075260E /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0496B87028C23A060082413E /* CircleButtonAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtonAnimationView.swift; sourceTree = "<group>"; };
 		04AFFE3E28BF92090075260E /* Crypto Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Crypto Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04AFFE4128BF92090075260E /* CryptoWorldApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoWorldApp.swift; sourceTree = "<group>"; };
 		04AFFE4328BF92090075260E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				04AFFE5A28C0D4E20075260E /* CircleButtonView.swift */,
+				0496B87028C23A060082413E /* CircleButtonAnimationView.swift */,
 			);
 			path = CircleButton;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				04AFFE4228BF92090075260E /* CryptoWorldApp.swift in Sources */,
 				04AFFE5B28C0D4E20075260E /* CircleButtonView.swift in Sources */,
 				04AFFE5128C05E640075260E /* Color.swift in Sources */,
+				0496B87128C23A060082413E /* CircleButtonAnimationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
